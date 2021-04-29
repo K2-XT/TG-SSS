@@ -1,0 +1,1194 @@
+﻿Log file open, 10/05/20 18:32:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSAI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.138838
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.06-00.32.05:712][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.06-00.32.05:712][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.06-00.32.05:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:713][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:721][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:721][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.06-00.32.05:721][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.06-00.32.05:721][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.06-00.32.05:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.06-00.32.05:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.06-00.32.05:723][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:723][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.06-00.32.05:723][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.06-00.32.05:723][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.06-00.32.05:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.06-00.32.05:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.06-00.32.05:723][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.06-00.32.05:724][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.06-00.32.05:734][  0]LogHAL: Display: Platform has ~ 16 GB [17075097600 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.06-00.32.05:734][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.06-00.32.05:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.06-00.32.05:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:737][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-00.32.05:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.06-00.32.05:737][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.06-00.32.05:742][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.06-00.32.05:742][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.06-00.32.05:742][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-00.32.05:749][  0]LogInit: Computer: DESKTOP-OHN5II6
+[2020.10.06-00.32.05:749][  0]LogInit: User: payto
+[2020.10.06-00.32.05:749][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.06-00.32.05:749][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.06-00.32.05:749][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.06-00.32.05:749][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.06-00.32.05:749][  0]LogMemory: Process Physical Memory: 107.28 MB used, 107.28 MB peak
+[2020.10.06-00.32.05:749][  0]LogMemory: Process Virtual Memory: 101.42 MB used, 101.42 MB peak
+[2020.10.06-00.32.05:749][  0]LogMemory: Physical Memory: 7938.74 MB used,  8345.34 MB free, 16284.08 MB total
+[2020.10.06-00.32.05:749][  0]LogMemory: Virtual Memory: 5161.08 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.10.06-00.32.05:755][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.06-00.32.05:907][  0]LogInit: Using OS detected language (en-US).
+[2020.10.06-00.32.05:907][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.06-00.32.05:908][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.06-00.32.06:171][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.06-00.32.06:270][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.06-00.32.06:270][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.06-00.32.08:861][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.06-00.32.08:861][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.06-00.32.08:861][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.06-00.32.08:861][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.06-00.32.08:956][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.10.06-00.32.08:956][  0]LogD3D11RHI:       6052/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.06-00.32.08:979][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.10.06-00.32.08:979][  0]LogD3D11RHI:       128/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.06-00.32.08:981][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.06-00.32.08:981][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.06-00.32.08:981][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.06-00.32.08:990][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.06-00.32.08:991][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.06-00.32.08:992][  0]LogWindows: EnumDisplayDevices:
+[2020.10.06-00.32.08:992][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.10.06-00.32.08:992][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.06-00.32.08:992][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.06-00.32.08:992][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:1)
+[2020.10.06-00.32.08:993][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.10.06-00.32.08:993][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.10.06-00.32.08:993][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.10.06-00.32.08:993][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.06-00.32.08:993][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.10.06-00.32.08:993][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2020.10.06-00.32.08:993][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2020.10.06-00.32.08:993][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.10.06-00.32.09:051][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.06-00.32.09:052][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.06-00.32.09:096][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.06-00.32.09:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.06-00.32.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.06-00.32.09:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.06-00.32.09:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.06-00.32.09:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.06-00.32.09:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.06-00.32.09:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.06-00.32.09:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.06-00.32.09:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.06-00.32.09:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.06-00.32.09:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.06-00.32.09:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.06-00.32.09:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.06-00.32.09:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.06-00.32.09:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.06-00.32.09:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.06-00.32.09:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.06-00.32.09:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.06-00.32.09:599][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.06-00.32.09:606][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.06-00.32.09:679][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Intermediate/Shaders/WorkingDirectory/9536/).
+[2020.10.06-00.32.09:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/payto/AppData/Local/Temp/UnrealShaderWorkingDir/DD34E93F4AA5E64EB7187E8AEBBE5118/'.
+[2020.10.06-00.32.09:681][  0]LogXGEController: Cleaning working directory: C:/Users/payto/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.06-00.32.09:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.06-00.32.09:681][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.06-00.32.09:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.06-00.32.12:462][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.06-00.32.12:570][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/payto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.10.06-00.32.12:570][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/payto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.10.06-00.32.12:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.06-00.32.12:570][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.06-00.32.12:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.06-00.32.12:570][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.06-00.32.12:589][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.06-00.32.12:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.06-00.32.12:589][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.06-00.32.12:591][  0]LogDerivedDataCache: Using Local data cache path C:/Users/payto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.06-00.32.12:591][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.06-00.32.12:591][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.06-00.32.12:618][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.06-00.32.12:628][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.06-00.32.12:650][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.06-00.32.12:815][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2020.10.06-00.32.13:361][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.06-00.32.13:722][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.06-00.32.13:722][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.06-00.32.13:722][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.06-00.32.13:722][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.06-00.32.13:723][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.06-00.32.13:787][  0]LogNetVersion: FPSAI 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1676612297)
+[2020.10.06-00.32.16:764][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048747 seconds
+[2020.10.06-00.32.16:772][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.10.06-00.32.16:772][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.10.06-00.32.16:772][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.06-00.32.17:767][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.06-00.32.17:774][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.06-00.32.17:886][  0]SourceControl: Source control is disabled
+[2020.10.06-00.32.17:886][  0]SourceControl: Source control is disabled
+[2020.10.06-00.32.17:896][  0]SourceControl: Source control is disabled
+[2020.10.06-00.32.17:901][  0]SourceControl: Source control is disabled
+[2020.10.06-00.32.17:905][  0]SourceControl: Source control is disabled
+[2020.10.06-00.32.18:114][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.06-00.32.18:135][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.06-00.32.18:135][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.06-00.32.18:311][  0]LogOcInput: OculusInput pre-init called
+[2020.10.06-00.32.18:329][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.06-00.32.18:329][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.06-00.32.18:493][  0]LogEngine: Initializing Engine...
+[2020.10.06-00.32.18:495][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.06-00.32.18:498][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.10.06-00.32.19:057][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.06-00.32.19:090][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-00.32.19:102][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-00.32.19:102][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-00.32.19:103][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-00.32.19:103][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: Channel Order:
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-00.32.19:150][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-00.32.19:735][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.06-00.32.19:756][  0]LogInit: FAudioDevice initialized.
+[2020.10.06-00.32.19:756][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.06-00.32.19:799][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/payto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.10.06-00.32.19:802][  0]LogInit: Texture streaming: Enabled
+[2020.10.06-00.32.19:819][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.06-00.32.19:820][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.06-00.32.19:820][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.06-00.32.20:025][  0]LogInit: Transaction tracking system initialized
+[2020.10.06-00.32.20:067][  0]BlueprintLog: New page: Editor Load
+[2020.10.06-00.32.20:200][  0]LocalizationService: Localization service is disabled
+[2020.10.06-00.32.21:676][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.06-00.32.21:676][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.06-00.32.21:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/' took 0.03s
+[2020.10.06-00.32.22:608][  0]SourceControl: Source control is disabled
+[2020.10.06-00.32.22:610][  0]Cmd: MAP LOAD FILE="../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Maps/DesertMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.06-00.32.22:630][  0]LightingResults: New page: Lighting Build
+[2020.10.06-00.32.22:635][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.32.22:636][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.32.22:636][  0]MapCheck: New page: Map Check
+[2020.10.06-00.32.22:636][  0]LightingResults: New page: Lighting Build
+[2020.10.06-00.32.22:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.06-00.32.26:272][  0]LogAIModule: Creating AISystem for world DesertMap
+[2020.10.06-00.32.27:211][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.06-00.32.27:288][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.06-00.32.27:289][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.06-00.32.27:290][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.441ms to complete.
+[2020.10.06-00.32.27:290][  0]LogFileHelpers: Loading map 'DesertMap' took 4.681
+[2020.10.06-00.32.27:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.32.27:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.32.27:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.32.27:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.32.27:536][  0]LogCollectionManager: Loaded 0 collections in 0.001004 seconds
+[2020.10.06-00.32.27:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Collections/' took 0.00s
+[2020.10.06-00.32.27:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/Developers/payto/Collections/' took 0.00s
+[2020.10.06-00.32.27:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/Collections/' took 0.00s
+[2020.10.06-00.32.27:568][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3022 classes and 719 folders.
+[2020.10.06-00.32.27:576][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.06-00.32.27:892][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.06-00.32.27:903][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.10.06-00.32.27:997][  0]LogSlate: Took 0.006921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.06-00.32.28:006][  0]LogSlate: Took 0.007223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.06-00.32.28:017][  0]LogSlate: Took 0.006734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.06-00.32.28:168][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.10.06-00.32.28:195][  0]LogRenderer: Reallocating scene render targets to support 1208x680 Format 9 NumSamples 1 (Frame:1).
+[2020.10.06-00.32.28:303][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.06-00.32.28:303][  0]LogLoad: (Engine Initialization) Total time: 26.85 seconds
+[2020.10.06-00.32.28:303][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.06-00.32.28:379][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.10.06-00.32.28:436][  0]LogSlate: Took 0.007509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.06-00.32.29:364][ 17]LogAssetRegistry: Asset discovery search completed in 16.5500 seconds
+[2020.10.06-00.32.29:370][ 17]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.10.06-00.32.32:904][226]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-00.32.32:925][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-00.32.32:928][226]PIE: New page: PIE session: DesertMap (Oct 5, 2020, 12:32:32 PM)
+[2020.10.06-00.32.32:930][226]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.06-00.32.32:931][226]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.06-00.32.32:932][226]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap
+[2020.10.06-00.32.33:069][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136790s)
+[2020.10.06-00.32.33:070][226]LogAIModule: Creating AISystem for world DesertMap
+[2020.10.06-00.32.33:071][226]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2020.10.06-00.32.33:071][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DesertMap.DesertMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap (0.138642s)
+[2020.10.06-00.32.33:103][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-00.32.33:104][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-00.32.33:104][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-00.32.33:105][226]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-00.32.33:105][226]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Is Default: Yes
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: Channel Order:
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-00.32.33:135][226]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-00.32.33:148][226]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.06-00.32.33:150][226]LogInit: FAudioDevice initialized.
+[2020.10.06-00.32.33:162][226]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.06-00.32.33:167][226]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap up for play (max tick rate 60) at 2020.10.05-18.32.33
+[2020.10.06-00.32.33:170][226]LogWorld: Bringing up level for play took: 0.005576
+[2020.10.06-00.32.33:171][226]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.10.06-00.32.33:178][226]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.10.06-00.32.33:192][226]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap 1.146
+[2020.10.06-00.32.38:508][543]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_1
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.32.38:508][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.32.40:211][645]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_2
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.32.40:211][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.40:211][645]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_2
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.32.40:211][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.43:616][849]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC2_2
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.32.43:616][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.43:616][849]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC2_2
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.32.43:616][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.44:808][921]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_LongRifle_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_LongRifle_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.32.44:808][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.32.49:677][213]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_1
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.32.49:677][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.49:677][213]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_1
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.32.49:677][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.51:380][315]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.32.51:380][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.51:380][315]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.32.51:380][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.52:875][405]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_LongRifle_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_LongRifle_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.32.52:875][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.32.57:279][669]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.32.57:279][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.32.57:279][669]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.32.57:279][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.03:143][ 21]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_7
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.03:143][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.03:443][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.03:443][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.10:242][447]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.10:242][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.15:893][786]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_7
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.15:894][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.17:977][911]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.17:977][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.19:643][ 11]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_LongRifle_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_LongRifle_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.19:643][ 11]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.21:726][136]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_7
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.21:726][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.23:976][271]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character_1
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:021D
+[2020.10.06-00.33.23:976][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character_1". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.24:677][313]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=466.089] for [NPC_C]
+[2020.10.06-00.33.24:678][313]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_3
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.33.24:678][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.24:678][313]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_3
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.33.24:678][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.24:679][313]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn
+	BTT_SetWalkSpeedAndFocus_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTT_SetWalkSpeed_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTT_SetWalkSpeedAndFocus.BTT_SetWalkSpeedAndFocus_C:ExecuteUbergraph_BTT_SetWalkSpeedAndFocus:0078
+[2020.10.06-00.33.24:679][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn". Blueprint:  BTT_SetWalkSpeedAndFocus Function:  Execute Ubergraph BTT Set Walk Speed and Focus Graph:  EventGraph Node:  Cast To CharacterMovementComponent
+[2020.10.06-00.33.25:177][343]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.25:177][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.25:177][343]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.25:177][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.25:594][368]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.25:594][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.25:594][368]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.25:594][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.26:042][395]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.26:042][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.26:043][395]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.26:043][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.26:459][420]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.26:459][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.26:459][420]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.26:459][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.27:026][454]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.27:026][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.27:026][454]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.27:026][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.27:311][471]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_4
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.33.27:311][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.27:311][471]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_4
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.33.27:312][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.27:542][485]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.27:542][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.27:542][485]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.27:542][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.28:127][520]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.28:127][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.28:127][520]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.28:127][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.28:643][551]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.28:643][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.28:643][551]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:010A
+[2020.10.06-00.33.28:643][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.28:910][567]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_LongRifle_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_LongRifle_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.28:910][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.29:143][581]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn_1
+	BTS_VisionCheck_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_7.BTComponent.BTS_VisionCheck_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTS_VisionCheck.BTS_VisionCheck_C:ExecuteUbergraph_BTS_VisionCheck:00D8
+[2020.10.06-00.33.29:143][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.29:143][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.29:660][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.29:660][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.30:126][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.30:126][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.30:710][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.30:710][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.30:976][691]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_8
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.30:977][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.31:226][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.31:226][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.31:826][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.31:826][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.32:409][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.32:409][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.33:009][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.33:009][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.33:527][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.33:527][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.33:960][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.33:960][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.34:450][898]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.33.34:450][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.34:450][898]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.33.34:450][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.34:548][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.34:549][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.35:048][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.35:048][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.35:581][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.35:581][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.36:165][  1]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.36:165][  1]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.36:748][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.36:749][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.36:883][ 44]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_7
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.33.36:884][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.36:884][ 44]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_7
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.33.36:884][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.37:164][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.37:164][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.37:764][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.37:765][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.38:314][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.38:315][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.38:748][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.38:748][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.38:900][165]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_8
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.33.38:900][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.38:900][165]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_8
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.33.38:901][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.39:198][183]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character_1
+	Weapon_LongRifle_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_LongRifle_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:021D
+[2020.10.06-00.33.39:198][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character_1". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.39:198][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.39:198][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.39:782][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.39:782][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.40:382][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.40:382][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.40:881][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.40:881][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.41:382][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.41:382][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.41:899][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.41:899][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.42:448][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.42:448][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.42:582][386]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.Weapon_Base_C_11
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.33.42:582][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.33.42:932][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.42:932][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.43:415][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.43:415][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.43:832][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.43:832][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.44:266][487]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=466.089] for [NPC_C]
+[2020.10.06-00.33.44:267][487]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_9
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.33.44:267][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.44:267][487]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_C_9
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.33.44:267][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.33.44:268][487]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn
+	BTT_SetWalkSpeedAndFocus_C /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap.DesertMap:PersistentLevel.NPC_Controller_C_12.BTComponent.BTT_SetWalkSpeed_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTT_SetWalkSpeedAndFocus.BTT_SetWalkSpeedAndFocus_C:ExecuteUbergraph_BTT_SetWalkSpeedAndFocus:0078
+[2020.10.06-00.33.44:268][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn". Blueprint:  BTT_SetWalkSpeedAndFocus Function:  Execute Ubergraph BTT Set Walk Speed and Focus Graph:  EventGraph Node:  Cast To CharacterMovementComponent
+[2020.10.06-00.33.44:314][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.44:315][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn_1". Blueprint:  BTS_VisionCheck Function:  Execute Ubergraph BTS Vision Check Graph:  EventGraph Node:  Branch
+[2020.10.06-00.33.44:649][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.06-00.33.44:655][510]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.06-00.33.44:684][510]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.06-00.33.44:685][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.33.44:685][510]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DesertMap
+[2020.10.06-00.33.44:685][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.06-00.33.44:692][510]LogWorld: UWorld::CleanupWorld for DesertMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.33.44:692][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.33.44:697][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-00.33.44:701][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.33.44:726][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.06-00.33.44:729][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.33.44:737][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.06-00.33.44:831][511]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.10.06-00.33.49:106][759]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.06-00.33.49:126][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base
+[2020.10.06-00.33.49:306][759]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.10.06-00.33.50:179][759]LogSlate: Took 0.005143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.06-00.33.50:403][760]LogSlate: Took 0.005402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.06-00.33.51:768][841]LogSlate: Window 'Message Log' being destroyed
+[2020.10.06-00.33.51:772][841]LogSlate: Window 'Message Log' being destroyed
+[2020.10.06-00.34.49:680][298]BlueprintLog: New page: Compile Weapon_Base
+[2020.10.06-00.34.50:012][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.10.06-00.34.50:586][317]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_Base298C35E94F7D5E16FC4E06BD850F1D99.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset'
+[2020.10.06-00.34.50:607][317]AssetCheck: New page: Asset Save: Weapon_Base
+[2020.10.06-00.34.50:607][317]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base
+[2020.10.06-00.36.31:873][340]BlueprintLog: New page: Compile Weapon_Base
+[2020.10.06-00.36.32:337][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.10.06-00.36.32:820][352]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_BaseAD9DD8224CFFE4B820A1A79288E83098.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset'
+[2020.10.06-00.36.32:843][352]AssetCheck: New page: Asset Save: Weapon_Base
+[2020.10.06-00.36.32:843][352]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base
+[2020.10.06-00.36.43:182][942]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.06-00.36.43:199][942]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.06-00.36.43:238][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.10.06-00.36.43:241][942]Cmd: MAP LOAD FILE="../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.06-00.36.43:241][942]LightingResults: New page: Lighting Build
+[2020.10.06-00.36.43:242][942]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.10.06-00.36.43:243][942]LogWorld: UWorld::CleanupWorld for DesertMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.36.43:243][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.36.43:243][942]MapCheck: New page: Map Check
+[2020.10.06-00.36.43:243][942]LightingResults: New page: Lighting Build
+[2020.10.06-00.36.43:288][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.06-00.36.43:309][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.06-00.36.43:347][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.06-00.36.43:387][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.06-00.36.43:387][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2020.10.06-00.36.43:388][942]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.148
+[2020.10.06-00.36.46:523][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-00.36.46:553][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.06-00.36.46:553][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-00.36.46:553][127]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 12:36:46 PM)
+[2020.10.06-00.36.46:553][127]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-00.36.46:572][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018576s)
+[2020.10.06-00.36.46:573][127]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.06-00.36.46:573][127]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2020.10.06-00.36.46:573][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019921s)
+[2020.10.06-00.36.46:610][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.06-00.36.46:610][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-00.36.46:610][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-00.36.46:610][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-00.36.46:610][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-00.36.46:611][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-00.36.46:611][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-00.36.46:611][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-00.36.46:611][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-00.36.46:612][127]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-00.36.46:612][127]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Is Default: Yes
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: Channel Order:
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-00.36.46:639][127]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-00.36.46:650][127]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.06-00.36.46:652][127]LogInit: FAudioDevice initialized.
+[2020.10.06-00.36.46:657][127]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.06-00.36.46:661][127]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-18.36.46
+[2020.10.06-00.36.46:662][127]LogWorld: Bringing up level for play took: 0.003642
+[2020.10.06-00.36.46:662][127]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.10.06-00.36.46:674][127]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.627
+[2020.10.06-00.36.46:674][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.06-00.36.53:663][545]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.36.53:663][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.36.53:690][547]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.36.53:690][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.36.53:723][549]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.36.53:723][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.36.53:757][551]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.36.53:757][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.36.53:907][560]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_3
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.36.53:907][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.36.55:856][677]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.36.55:856][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.36.57:690][787]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_5
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.36.57:690][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.36.59:290][883]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_1
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.36.59:290][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.00:712][968]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:712][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:740][970]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:741][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:773][972]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:773][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:807][974]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:807][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:840][976]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:840][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:874][978]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:874][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:907][980]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:908][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:941][982]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:941][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.00:975][984]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue
+	BTD_AllowIfDistanceGreaterThan_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC_Controller_C_0.BTComponent.BTD_AllowIfDistanceGreaterThan_C_0
+	Function /Game/ThirdPersonBP/Blueprints/NPC/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan_C:PerformConditionCheckAI:006E
+[2020.10.06-00.37.00:975][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboardValueAsActor_ReturnValue". Blueprint:  BTD_AllowIfDistanceGreaterThan Function:  Perform Condition Check AI Graph:  PerformConditionCheckAI Node:  Return Node
+[2020.10.06-00.37.01:590][ 21]LogCharacterMovement: NPC_2 is stuck and failed to move! Velocity: X=-49.15 Y=-122.34 Z=0.00 Location: X=818.61 Y=-1335.65 Z=228.42 Normal: X=0.97 Y=0.25 Z=0.00 PenetrationDepth:7.040 Actor:NPC3_5 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2020.10.06-00.37.01:891][ 39]LogCharacterMovement: NPC3_5 is stuck and failed to move! Velocity: X=264.30 Y=4.59 Z=0.00 Location: X=742.92 Y=-1395.26 Z=226.77 Normal: X=-0.89 Y=-0.13 Z=-0.43 PenetrationDepth:16.151 Actor:NPC_2 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2020.10.06-00.37.02:707][ 88]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_3
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.02:707][ 88]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.03:006][106]LogCharacterMovement: NPC3_5 is stuck and failed to move! Velocity: X=33.31 Y=7.44 Z=0.00 Location: X=758.38 Y=-1407.96 Z=226.35 Normal: X=-0.29 Y=-0.96 Z=-0.02 PenetrationDepth:9.127 Actor:NPC_2 Component:CharacterMesh0 BoneName:RightHand (36 other events since notify)
+[2020.10.06-00.37.03:089][111]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.03:090][111]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.06:409][310]LogCharacterMovement: NPC4_8 is stuck and failed to move! Velocity: X=-4.40 Y=-90.50 Z=0.00 Location: X=-68.54 Y=-772.21 Z=228.44 Normal: X=-0.87 Y=0.49 Z=0.00 PenetrationDepth:5.238 Actor:NPC3_5 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2020.10.06-00.37.06:490][315]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_1
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.06:490][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.07:111][351]LogCharacterMovement: NPC3_5 is stuck and failed to move! Velocity: X=-33.04 Y=299.95 Z=0.00 Location: X=-107.48 Y=-741.17 Z=228.44 Normal: X=1.00 Y=0.01 Z=0.00 PenetrationDepth:2.322 Actor:NPC4_8 Component:CharacterMesh0 BoneName:LeftArm (5 other events since notify)
+[2020.10.06-00.37.07:824][392]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.07:824][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.08:163][412]LogBlueprintUserMessages: [Weapon_Base_C_6] Clip Is Full
+[2020.10.06-00.37.08:468][430]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.08:468][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.15:085][827]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.15:085][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.15:417][847]LogCharacterMovement: NPC_2 is stuck and failed to move! Velocity: X=-66.37 Y=17.07 Z=0.00 Location: X=241.43 Y=303.89 Z=423.15 Normal: X=0.02 Y=1.00 Z=0.00 PenetrationDepth:6.298 Actor:NPC2_2 Component:CharacterMesh0 BoneName:LeftHand (15 other events since notify)
+[2020.10.06-00.37.18:335][ 22]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_2
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.18:335][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.19:870][114]LogScript: Warning: Accessed None trying to read property CrosshairReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC3_5
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03D3
+[2020.10.06-00.37.19:870][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CrosshairReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.37.19:871][114]LogScript: Warning: Accessed None trying to read property HUDReference
+	NPC_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC3_5
+	Function /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character_C:ExecuteUbergraph_Parent_Character:03F7
+[2020.10.06-00.37.19:871][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUDReference". Blueprint:  Parent_Character Function:  Execute Ubergraph Parent Character Graph:  EventGraph Node:  Remove from Parent
+[2020.10.06-00.37.21:084][187]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.21:085][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.21:969][240]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsParent_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_6
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:0246
+[2020.10.06-00.37.21:969][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsParent_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2020.10.06-00.37.22:703][284]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.06-00.37.22:705][284]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.06-00.37.22:726][284]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.06-00.37.22:726][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.06-00.37.22:726][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.37.22:726][284]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-00.37.22:726][284]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.06-00.37.22:726][284]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.37.22:727][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.37.22:739][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-00.37.22:739][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.06-00.37.22:744][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.37.22:783][284]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.06-00.37.22:787][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-00.37.22:794][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.06-00.37.22:882][285]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.06-00.37.32:804][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NPC/HealthInterface.HealthInterface
+[2020.10.06-00.37.45:826][629]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.37.45:826][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.37.49:726][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NPC/HealthInterface.HealthInterface
+[2020.10.06-00.38.00:555][490]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.38.00:555][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.38.11:658][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-00.38.53:738][636]LogUObjectArray: Warning: Other object in slot
+[2020.10.06-00.38.53:745][636]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.06-00.38.54:520][636]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.776 s
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: 
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: Stack: 
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe17c27b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe1743678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe1744409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe139bc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe125c977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe12581647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe188cb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.06-00.38.54:520][636]LogOutputDevice: Error: [Callstack] 0x00007ffe18abdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe189160b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe188f46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe188e8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe5a774ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe5a76242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe5a777195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe5a75ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe9376e858 USER32.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe9376e299 USER32.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe5a778699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ff7703a6db0 UE4Editor.exe!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ff7703bc3ec UE4Editor.exe!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ff7703bc4ca UE4Editor.exe!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ff7703cceae UE4Editor.exe!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ff7703cfcbe UE4Editor.exe!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe92366fd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: [Callstack] 0x00007ffe9433cec1 ntdll.dll!UnknownFunction []
+[2020.10.06-00.38.54:521][636]LogOutputDevice: Error: 
+[2020.10.06-00.38.54:529][636]LogStats:                SubmitErrorReport -  0.000 s

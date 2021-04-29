@@ -1,0 +1,808 @@
+﻿Log file open, 10/05/20 20:02:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSAI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086313
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.06-02.02.23:514][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.06-02.02.23:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:515][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:518][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.06-02.02.23:518][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:518][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.06-02.02.23:519][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.06-02.02.23:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.06-02.02.23:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.06-02.02.23:520][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.06-02.02.23:520][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.06-02.02.23:523][  0]LogHAL: Display: Platform has ~ 16 GB [17075097600 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.06-02.02.23:523][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.06-02.02.23:523][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.06-02.02.23:523][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Scalability.ini]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.06-02.02.23:524][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.06-02.02.23:525][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.06-02.02.23:525][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.06-02.02.23:525][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Config/Windows/Engine.ini]
+[2020.10.06-02.02.23:525][  0]LogInit: Computer: DESKTOP-OHN5II6
+[2020.10.06-02.02.23:525][  0]LogInit: User: payto
+[2020.10.06-02.02.23:525][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.06-02.02.23:525][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.06-02.02.23:525][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.06-02.02.23:525][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.06-02.02.23:525][  0]LogMemory: Process Physical Memory: 107.28 MB used, 107.29 MB peak
+[2020.10.06-02.02.23:525][  0]LogMemory: Process Virtual Memory: 101.52 MB used, 101.52 MB peak
+[2020.10.06-02.02.23:526][  0]LogMemory: Physical Memory: 9449.43 MB used,  6834.66 MB free, 16284.08 MB total
+[2020.10.06-02.02.23:526][  0]LogMemory: Virtual Memory: 5161.08 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.10.06-02.02.23:533][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.06-02.02.23:574][  0]LogInit: Using OS detected language (en-US).
+[2020.10.06-02.02.23:574][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.06-02.02.23:575][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.06-02.02.23:756][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.06-02.02.23:788][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.06-02.02.23:788][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.06-02.02.23:983][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.06-02.02.23:983][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.06-02.02.23:983][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.06-02.02.23:983][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.06-02.02.24:086][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.10.06-02.02.24:086][  0]LogD3D11RHI:       6052/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.06-02.02.24:100][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.10.06-02.02.24:100][  0]LogD3D11RHI:       128/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.06-02.02.24:102][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.06-02.02.24:102][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.06-02.02.24:102][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.06-02.02.24:109][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.06-02.02.24:109][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.06-02.02.24:109][  0]LogWindows: EnumDisplayDevices:
+[2020.10.06-02.02.24:109][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.10.06-02.02.24:110][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.06-02.02.24:110][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.06-02.02.24:110][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:1)
+[2020.10.06-02.02.24:111][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.10.06-02.02.24:111][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.10.06-02.02.24:111][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.10.06-02.02.24:111][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.06-02.02.24:111][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.10.06-02.02.24:111][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2020.10.06-02.02.24:111][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2020.10.06-02.02.24:111][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.10.06-02.02.24:177][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.06-02.02.24:177][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.06-02.02.24:206][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.06-02.02.24:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.06-02.02.24:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.06-02.02.24:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.06-02.02.24:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.06-02.02.24:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.06-02.02.24:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.06-02.02.24:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.06-02.02.24:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.06-02.02.24:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.06-02.02.24:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.06-02.02.24:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.06-02.02.24:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.06-02.02.24:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.06-02.02.24:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.06-02.02.24:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.06-02.02.24:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.06-02.02.24:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.06-02.02.24:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.06-02.02.24:723][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.06-02.02.24:727][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.06-02.02.24:748][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Intermediate/Shaders/WorkingDirectory/19576/).
+[2020.10.06-02.02.24:749][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/payto/AppData/Local/Temp/UnrealShaderWorkingDir/0CBDDF904155348556384EB7FD050BC9/'.
+[2020.10.06-02.02.24:749][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.06-02.02.24:749][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.06-02.02.24:749][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.06-02.02.25:466][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.06-02.02.25:519][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/payto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.10.06-02.02.25:519][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/payto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.10.06-02.02.25:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.06-02.02.25:519][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.06-02.02.25:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.06-02.02.25:519][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.06-02.02.25:530][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.06-02.02.25:530][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.06-02.02.25:530][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.06-02.02.25:531][  0]LogDerivedDataCache: Using Local data cache path C:/Users/payto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.06-02.02.25:531][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.06-02.02.25:531][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.06-02.02.25:557][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.06-02.02.25:560][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.06-02.02.25:560][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.06-02.02.25:610][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.10.06-02.02.25:919][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.06-02.02.26:099][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.06-02.02.26:099][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.06-02.02.26:099][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.06-02.02.26:099][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.06-02.02.26:099][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.06-02.02.26:115][  0]LogNetVersion: FPSAI 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1676612297)
+[2020.10.06-02.02.27:119][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048217 seconds
+[2020.10.06-02.02.27:127][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.10.06-02.02.27:127][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.10.06-02.02.27:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.06-02.02.27:528][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.06-02.02.27:531][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.06-02.02.27:583][  0]SourceControl: Source control is disabled
+[2020.10.06-02.02.27:583][  0]SourceControl: Source control is disabled
+[2020.10.06-02.02.27:584][  0]SourceControl: Source control is disabled
+[2020.10.06-02.02.27:585][  0]SourceControl: Source control is disabled
+[2020.10.06-02.02.27:586][  0]SourceControl: Source control is disabled
+[2020.10.06-02.02.27:668][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.06-02.02.27:679][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.06-02.02.27:679][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.06-02.02.27:769][  0]LogOcInput: OculusInput pre-init called
+[2020.10.06-02.02.27:777][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.06-02.02.27:777][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.06-02.02.27:846][  0]LogEngine: Initializing Engine...
+[2020.10.06-02.02.27:847][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.06-02.02.27:848][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.06-02.02.28:175][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.06-02.02.28:180][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-02.02.28:198][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-02.02.28:198][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-02.02.28:198][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: Channel Order:
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-02.02.28:242][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-02.02.28:260][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.06-02.02.28:264][  0]LogInit: FAudioDevice initialized.
+[2020.10.06-02.02.28:264][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.06-02.02.28:309][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/payto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.10.06-02.02.28:314][  0]LogInit: Texture streaming: Enabled
+[2020.10.06-02.02.28:324][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.06-02.02.28:324][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.06-02.02.28:326][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.06-02.02.28:384][  0]LogInit: Transaction tracking system initialized
+[2020.10.06-02.02.28:394][  0]BlueprintLog: New page: Editor Load
+[2020.10.06-02.02.28:421][  0]LocalizationService: Localization service is disabled
+[2020.10.06-02.02.29:564][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.06-02.02.29:564][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.06-02.02.29:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/' took 0.03s
+[2020.10.06-02.02.30:170][  0]SourceControl: Source control is disabled
+[2020.10.06-02.02.30:170][  0]Cmd: MAP LOAD FILE="../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Maps/DesertMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.06-02.02.30:171][  0]LightingResults: New page: Lighting Build
+[2020.10.06-02.02.30:172][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-02.02.30:172][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.02.30:172][  0]MapCheck: New page: Map Check
+[2020.10.06-02.02.30:172][  0]LightingResults: New page: Lighting Build
+[2020.10.06-02.02.30:201][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.06-02.02.31:683][  0]LogAIModule: Creating AISystem for world DesertMap
+[2020.10.06-02.02.31:749][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.06-02.02.31:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.10.06-02.02.31:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.06-02.02.31:818][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2020.10.06-02.02.31:818][  0]LogFileHelpers: Loading map 'DesertMap' took 1.648
+[2020.10.06-02.02.31:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.02.31:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.02.31:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.02.31:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.02.31:995][  0]LogCollectionManager: Loaded 0 collections in 0.000858 seconds
+[2020.10.06-02.02.32:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Collections/' took 0.00s
+[2020.10.06-02.02.32:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/Developers/payto/Collections/' took 0.00s
+[2020.10.06-02.02.32:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/Collections/' took 0.00s
+[2020.10.06-02.02.32:007][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3022 classes and 719 folders.
+[2020.10.06-02.02.32:009][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.06-02.02.32:054][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.06-02.02.32:058][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.10.06-02.02.32:097][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.06-02.02.32:099][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.06-02.02.32:104][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.06-02.02.32:189][  0]LogRenderer: Reallocating scene render targets to support 1208x680 Format 9 NumSamples 1 (Frame:1).
+[2020.10.06-02.02.32:285][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.06-02.02.32:285][  0]LogLoad: (Engine Initialization) Total time: 10.11 seconds
+[2020.10.06-02.02.32:285][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.06-02.02.32:353][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.10.06-02.02.32:382][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.06-02.02.32:421][  1]LogAssetRegistry: Asset discovery search completed in 6.8120 seconds
+[2020.10.06-02.02.32:424][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.10.06-02.02.41:797][557]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.06-02.02.41:818][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AssaultRifle/AssaultRifle.AssaultRifle
+[2020.10.06-02.02.41:994][557]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.10.06-02.02.44:868][677]LogSlate: Window 'AssaultRifle' being destroyed
+[2020.10.06-02.02.44:899][677]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-02.02.44:899][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.02.44:964][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AssaultRifle/AssaultRifle.AssaultRifle
+[2020.10.06-02.02.45:317][677]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.06-02.02.47:129][783]LogRenderer: Reallocating scene render targets to support 1208x708 Format 9 NumSamples 1 (Frame:1).
+[2020.10.06-02.02.48:024][836]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.06-02.02.57:167][367]LogSlate: Window 'AssaultRifle' being destroyed
+[2020.10.06-02.02.57:177][367]LogSlate: Window 'AssaultRifle' being destroyed
+[2020.10.06-02.02.57:200][367]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-02.02.57:200][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.03.28:286][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.06-02.03.29:904][217]LogSlate: Window 'Save Content' being destroyed
+[2020.10.06-02.03.29:947][217]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_LongRifle5548F2AF48AB63C1549713A6287968E9.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.uasset'
+[2020.10.06-02.03.29:958][217]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_ShotgunF1B9310045A675957F254491595B41DF.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.uasset'
+[2020.10.06-02.03.29:979][217]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.03.29:979][217]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.Weapon_LongRifle
+[2020.10.06-02.03.29:979][217]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.Weapon_Shotgun
+[2020.10.06-02.03.34:528][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.06-02.03.44:005][482]LogSlate: Window 'Replace References?' being destroyed
+[2020.10.06-02.03.44:008][482]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.06-02.03.44:944][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.06-02.03.45:353][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.06-02.03.47:763][482]LogSlate: Window 'Save Content' being destroyed
+[2020.10.06-02.03.47:969][482]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_Character6279DF0546BD5524C0B7EAA59F180FCC.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.03.47:993][482]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_LongRifle329233B348C58B41C253ACB3445EE1AD.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.uasset'
+[2020.10.06-02.03.48:014][482]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.03.48:014][482]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.03.48:014][482]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Default__Weapon_LongRifle_C
+[2020.10.06-02.03.48:014][482]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle_C
+[2020.10.06-02.03.48:014][482]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle
+[2020.10.06-02.03.56:013][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.06-02.04.06:495][954]LogSlate: Window 'Replace References?' being destroyed
+[2020.10.06-02.04.06:501][954]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.06-02.04.07:116][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.10.06-02.04.25:966][954]LogSlate: Window 'Message' being destroyed
+[2020.10.06-02.04.28:234][954]LogSlate: Window 'Message' being destroyed
+[2020.10.06-02.04.28:275][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.10.06-02.04.34:373][954]LogSlate: Window 'Critical Failure to Consolidate Assets' being destroyed
+[2020.10.06-02.04.43:294][471]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_CharacterFC44231244797D9D87C8A1B1F14282EE.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.04.43:311][471]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_LongRifle3FF462A4407B15C148EFABB3740FA7FF.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.uasset'
+[2020.10.06-02.04.43:430][471]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.04.43:430][471]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.04.43:430][471]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Default__Weapon_LongRifle_C
+[2020.10.06-02.04.43:430][471]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle_C
+[2020.10.06-02.04.43:430][471]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle
+[2020.10.06-02.04.48:170][755]LogSlate: Window 'Failed Renames' being destroyed
+[2020.10.06-02.04.57:401][290]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_CharacterBF0DB5534B492E2722D31B880EE22611.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.04.57:417][290]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_LongRifle94A5351B497E72E7469411B44A02BD74.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.uasset'
+[2020.10.06-02.04.57:544][290]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.04.57:544][290]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.04.57:544][290]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Default__Weapon_LongRifle_C
+[2020.10.06-02.04.57:544][290]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle_C
+[2020.10.06-02.04.57:544][290]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle
+[2020.10.06-02.05.03:522][649]LogSlate: Window 'Failed Renames' being destroyed
+[2020.10.06-02.05.08:211][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.06-02.05.08:280][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.08:281][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.08:287][925]LogBlueprint: Error: [Compiler Parent_Character] COMPILER ERROR: failed building connection with 'Long Rifle Object Reference is not compatible with Object Reference.' at  SpawnActor Weapon Long Rifle
+[2020.10.06-02.05.08:287][925]LogBlueprint: Error: [Compiler Parent_Character] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Set LongRifle
+[2020.10.06-02.05.08:287][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.08:287][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.08:295][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.08:295][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.08:295][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.08:295][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.08:296][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Equipped Weapon  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.08:296][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Equipped Weapon : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.08:296][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.08:296][925]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.08:305][925]LogBlueprint: Error: [Compiler Parent_Character] Failed to find class for pin  Long Rifle
+[2020.10.06-02.05.08:309][925]LogBlueprint: Warning: [Compiler NPC] Could not find the function 'spawnWeapon2' called from  Spawn Weapon 2
+[2020.10.06-02.05.08:311][925]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'selectWeapon1' called from  Select Weapon 1
+[2020.10.06-02.05.08:311][925]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'selectWeapon2' called from  Select Weapon 2
+[2020.10.06-02.05.08:311][925]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'selectWeapon3' called from  Select Weapon 3
+[2020.10.06-02.05.08:311][925]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'spawnWeapon2' called from  Spawn Weapon 2
+[2020.10.06-02.05.08:586][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.SKEL_LongRifle_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:607][925]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_LongRifle.PackageMetaData'
+[2020.10.06-02.05.08:654][925]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/LongRifle187319AD457062111E2161B7FE0AF82E.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.uasset'
+[2020.10.06-02.05.08:857][925]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.10.06-02.05.08:902][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.06-02.05.08:935][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.06-02.05.09:150][925]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_CharacterF2ACAB2A473343F84100E4BCFA15E1FE.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.05.09:167][925]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_LongRifleEDB493E94EF62A9AFB9C82803A65E18A.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.uasset'
+[2020.10.06-02.05.09:260][925]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.05.09:260][925]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.LongRifle
+[2020.10.06-02.05.09:260][925]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.05.09:260][925]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle_C
+[2020.10.06-02.05.09:260][925]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.SKEL_LongRifle_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.SKEL_LongRifle_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.SKEL_LongRifle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.SKEL_LongRifle_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:269][158]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.SKEL_LongRifle_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/LongRifle.PackageMetaData'
+[2020.10.06-02.05.13:315][158]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/LongRifleF146D807423DE279884A0F9735C7DCFC.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.uasset'
+[2020.10.06-02.05.13:489][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.10.06-02.05.13:532][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.10.06-02.05.13:567][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.06-02.05.13:778][158]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_Character162CF42D4C4F107725F159A0FC7E3470.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.05.13:797][158]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_LongRifleD3E39F8F4A92302D692ACE8F4DBA3AB0.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.uasset'
+[2020.10.06-02.05.13:888][158]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.05.13:888][158]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/LongRifle.LongRifle
+[2020.10.06-02.05.13:888][158]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.05.13:888][158]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle_C
+[2020.10.06-02.05.13:888][158]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/LongRifle/Weapon_LongRifle.Weapon_LongRifle
+[2020.10.06-02.05.22:326][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.10.06-02.05.22:377][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:377][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Shotgun : Weapon Base Object Reference is not compatible with Weapon Shotgun Object Reference.
+[2020.10.06-02.05.22:377][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Shotgun  and  Target : Weapon Shotgun Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:378][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.22:384][659]LogBlueprint: Error: [Compiler Parent_Character] COMPILER ERROR: failed building connection with 'Long Rifle Object Reference is not compatible with Object Reference.' at  SpawnActor Weapon Long Rifle
+[2020.10.06-02.05.22:384][659]LogBlueprint: Error: [Compiler Parent_Character] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Set LongRifle
+[2020.10.06-02.05.22:384][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:384][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.22:385][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Shotgun  and  Target : Weapon Shotgun Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:385][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Shotgun : Weapon Base Object Reference is not compatible with Weapon Shotgun Object Reference.
+[2020.10.06-02.05.22:392][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:392][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Shotgun : Weapon Base Object Reference is not compatible with Weapon Shotgun Object Reference.
+[2020.10.06-02.05.22:392][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Shotgun  and  Target : Weapon Shotgun Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:392][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Shotgun : Weapon Base Object Reference is not compatible with Weapon Shotgun Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Shotgun  and  Target : Weapon Shotgun Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Equipped Weapon  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Equipped Weapon : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:393][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Long Rifle  and  Target : Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:394][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Shotgun  and  Target : Weapon Shotgun Object Reference is not compatible with Weapon Base Object Reference.
+[2020.10.06-02.05.22:394][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Shotgun : Weapon Base Object Reference is not compatible with Weapon Shotgun Object Reference.
+[2020.10.06-02.05.22:394][659]LogBlueprint: Error: [Compiler Parent_Character] Can't connect pins  Target  and  Long Rifle : Weapon Base Object Reference is not compatible with Object Reference.
+[2020.10.06-02.05.22:403][659]LogBlueprint: Error: [Compiler Parent_Character] Failed to find class for pin  Long Rifle
+[2020.10.06-02.05.22:409][659]LogBlueprint: Warning: [Compiler NPC] Could not find the function 'spawnWeapon2' called from  Spawn Weapon 2
+[2020.10.06-02.05.22:409][659]LogBlueprint: Warning: [Compiler NPC] Could not find the function 'spawnWeapon3' called from  Spawn Weapon 3
+[2020.10.06-02.05.22:410][659]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'spawnWeapon3' called from  Spawn Weapon 3
+[2020.10.06-02.05.22:410][659]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'selectWeapon1' called from  Select Weapon 1
+[2020.10.06-02.05.22:410][659]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'selectWeapon2' called from  Select Weapon 2
+[2020.10.06-02.05.22:410][659]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'selectWeapon3' called from  Select Weapon 3
+[2020.10.06-02.05.22:410][659]LogBlueprint: Warning: [Compiler PlayerCharacter] Could not find the function 'spawnWeapon2' called from  Spawn Weapon 2
+[2020.10.06-02.05.22:674][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.10.06-02.05.22:763][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.10.06-02.05.22:770][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:770][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.SKEL_Shotgun_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:771][659]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Weapon_Shotgun.PackageMetaData'
+[2020.10.06-02.05.22:821][659]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Shotgun409E0F2E4E517122435CBD8C5B628CD6.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.uasset'
+[2020.10.06-02.05.23:012][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.10.06-02.05.23:052][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.10.06-02.05.23:085][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.06-02.05.23:295][659]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_Character53A43116404B56A2C9FF18944839EB0C.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.05.23:386][659]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.05.23:386][659]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/Weapon_Base/Shotgun.Shotgun
+[2020.10.06-02.05.23:386][659]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.05.40:486][666]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_Character213082644870BD12A1BEEFA80B895BF8.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.05.40:600][666]AssetCheck: New page: Asset Save: Parent_Character
+[2020.10.06-02.05.40:600][666]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.05.43:415][835]LogSlate: Window 'Failed Renames' being destroyed
+[2020.10.06-02.05.47:101][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.06-02.05.57:212][ 53]LogSlate: Window 'Replace References?' being destroyed
+[2020.10.06-02.05.57:218][ 53]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.06-02.05.57:844][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.10.06-02.05.58:254][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.06-02.05.59:633][ 53]LogSlate: Window 'Save Content' being destroyed
+[2020.10.06-02.05.59:814][ 53]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Parent_CharacterEB47DF6142E3E3E377302CAABD2E36F2.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.uasset'
+[2020.10.06-02.05.59:834][ 53]LogSavePackage: Moving '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Saved/Weapon_ShotgunA3CF2E2A4C3FF38A534C0092FDEACC66.tmp' to '../../../../../../Users/payto/Documents/Unreal Projects/FPSExperimentalAI/Content/ThirdPersonBP/Blueprints/Weapons/Shotgun/Weapon_Shotgun.uasset'
+[2020.10.06-02.05.59:854][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.05.59:854][ 53]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Character_Base/Parent_Character.Parent_Character
+[2020.10.06-02.05.59:854][ 53]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/Shotgun/Weapon_Shotgun.Default__Weapon_Shotgun_C
+[2020.10.06-02.05.59:854][ 53]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/Shotgun/Weapon_Shotgun.Weapon_Shotgun_C
+[2020.10.06-02.05.59:854][ 53]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Weapons/Shotgun/Weapon_Shotgun.Weapon_Shotgun
+[2020.10.06-02.06.02:256][197]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2020.10.06-02.06.02:256][197]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 6126657536
+	 AvailableVirtual 140727938027520
+	     UsedPhysical 1806524416
+	 PeakUsedPhysical 1809379328
+	      UsedVirtual 3533303808
+	  PeakUsedVirtual 3539734528
+[2020.10.06-02.06.02:256][197]Allocator Stats for TBB: (not implemented)
+[2020.10.06-02.06.02:256][197]LogWindows: Windows GetLastError: The operation completed successfully. (0)
