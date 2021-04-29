@@ -1,6 +1,8 @@
 # TG-SSS
 Totally Generic Sci-fi Space Shooter
+
 Original Project Date: October 2020
+
 Dusted Off A Bit: April 2021
 
 TG-SSS is a simple first-person-shooter where you play as a blue swat-member fighting a bunch of red swat-members. The one and only gamemode is Free-For-All, so everyone is trying to murder each other. There are two maps, Arena and Desert, and the first to 25 wins. There is a time limit of five minutes. The TTK is pretty high with this, so don't get frustrated if the people you're shooting aren't dying, just find a hunting rifle on the map and you should find that TTK is about 4 shots with that.
